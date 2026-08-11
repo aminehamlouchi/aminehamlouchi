@@ -82,11 +82,6 @@ Pac-Man, eating a year of my commits. Regenerates itself every night.
   <img src="https://raw.githubusercontent.com/aminehamlouchi/aminehamlouchi/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph">
 </p>
 
-## ~/activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <p align="center">
   <sub>amine@louisville:~$ press <code>/</code> on the <a href="https://aminehamlouchi.github.io">portfolio</a> for the real terminal</sub>
 </p>
