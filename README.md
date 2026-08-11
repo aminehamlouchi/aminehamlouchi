@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Amine Hamlouchi · computer science @ university of louisville · building AI systems and full-stack platforms" width="100%">
+  <img src="assets/header.svg?v=2" alt="Amine Hamlouchi · computer science @ university of louisville · building AI systems and full-stack platforms" width="100%">
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## ~/about
 
 <div align="center">
-  <img src="assets/aminefetch.svg" alt="aminefetch: UofL Speed School CS '28, Arabic minor, AI systems and full-stack platforms, founder of rumi and minbar, IT Analyst intern at Parker Hannifin" width="100%">
+  <img src="assets/aminefetch.svg?v=2" alt="aminefetch: UofL Speed School CS '28, Arabic minor, AI systems and full-stack platforms, founder of rumi and minbar, IT Analyst intern at Parker Hannifin" width="100%">
 </div>
 
 I build systems, put them in front of real users, and keep them running. Two of mine are live right now:
