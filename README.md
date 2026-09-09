@@ -1,30 +1,32 @@
 <div align="center">
-  <img src="assets/header.svg?v=4" alt="Amine Hamlouchi · computer science @ university of louisville · building AI systems and full-stack platforms" width="100%">
+  <img src="assets/header.svg?v=5" alt="Amine Hamlouchi · computer science @ university of louisville · building AI systems and full-stack platforms" width="100%">
 </div>
 
 <p align="center">
-  <a href="https://aminehamlouchi.github.io">
+  <a href="https://aminehamlouchi.com">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=2600&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=40&lines=building+AI+systems+%26+full-stack+platforms;founder+of+rumi+%26+minbar;CS+%40+louisville+speed+school+%2728;shipping+things+real+people+use;%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B" alt="typing intro">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://aminehamlouchi.github.io"><b>portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://aminehamlouchi.github.io/resume.html"><b>resume</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:502amham03@gmail.com"><b>email</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://aminehamlouchi.github.io"><b>arcade</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://aminehamlouchi.com"><b>portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://aminehamlouchi.com/resume.html"><b>resume</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:amine@hamlouchi.com"><b>email</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://aminehamlouchi.com"><b>arcade</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=aminehamlouchi&color=00ff41&style=flat-square&label=visitors" alt="profile visitors">
 </p>
 
 ## ~/about
 
 <div align="center">
-  <img src="assets/aminefetch.svg?v=4" alt="aminefetch: UofL Speed School CS '28, Arabic minor, AI systems and full-stack platforms, founder of rumi and minbar, IT Analyst intern at Parker Hannifin" width="100%">
+  <img src="assets/aminefetch.svg?v=5" alt="aminefetch: UofL Speed School CS '28, Arabic minor, AI systems and full-stack platforms, founder of rumi and minbar, product engineering intern at Kamel Ride, IT analyst intern at Parker Hannifin" width="100%">
 </div>
 
-I build systems, put them in front of real users, and keep them running. Two of mine are live right now:
+Right now I ship production code as a product engineering intern at **Kamel Ride** (Node/Express, PostGIS, React Native, GCP Cloud Run, Pulumi), and I run IT analysis at **Parker Hannifin**.
 
-- **[Rumi](https://rumi-gray.vercel.app)** · roommate matching for Muslims. Live, with an active waitlist.
+Two things I built myself are live too:
+
+- **[Rumi](https://findyourrumi.com)** · roommate matching for Muslims. Live, with an active waitlist.
 - **[Minbar](https://minbar-chi.vercel.app)** · a platform masjids use to book and host visiting scholars. Already ran its first real visit end to end.
 
 ## ~/work
@@ -36,7 +38,7 @@ Systems that survived contact with real users.
 | **School Operations Platform** | Bilingual (English/Arabic, full RTL) system of record serving a real school daily: grading, attendance, scheduling, payroll, tuition. 80 active users, 106 API routes, row-level security, 51 regression tests. In production. | TypeScript · Next.js · Supabase · Postgres |
 | **Argument Knowledge Base** | 32 multi-hour audio debates distilled into a citation-verified RAG knowledge base. Two-pass fact verification against four primary-source APIs, map-reduce agent orchestration, ~1,000 records, 1,100+ citations. Private build, write-up on request. | Python · NLP · LLM orchestration |
 | **[kamel-analytics](https://github.com/aminehamlouchi/kamel-analytics)** | Event collection API, storage layer, analytics query layer, and dashboard, end to end in TypeScript. Built as a take-home, kept as a reference architecture. | TypeScript · Vite |
-| **[aminehamlouchi.github.io](https://github.com/aminehamlouchi/aminehamlouchi.github.io)** | This amber terminal, as a website. Hand-built, no framework, no build step. Particle hero that morphs between أمين and AMINE, an interactive terminal, and a playable arcade. | HTML · CSS · JS |
+| **[aminehamlouchi.com](https://aminehamlouchi.com)** | This amber terminal, as a website. Hand-built, no framework, no build step. [Source](https://github.com/aminehamlouchi/aminehamlouchi.github.io). Particle hero that morphs between أمين and AMINE, an interactive terminal, and a playable arcade. | HTML · CSS · JS |
 
 Also on the shelf: [superstore-retail-analytics](https://github.com/aminehamlouchi/superstore-retail-analytics) (discount strategy vs. profitability, ML in a notebook), [king-iphones-inventory-automation](https://github.com/aminehamlouchi/king-iphones-inventory-automation) (Electron + Google Sheets IMEI pipeline for a real shop), [pycheckers](https://github.com/aminehamlouchi/pycheckers) and [three-d-tic-tac-toe](https://github.com/aminehamlouchi/three-d-tic-tac-toe) (both playable on the portfolio).
 
@@ -83,5 +85,5 @@ Pac-Man, eating a year of my commits. Regenerates itself every night.
 </p>
 
 <p align="center">
-  <sub>amine@louisville:~$ press <code>/</code> on the <a href="https://aminehamlouchi.github.io">portfolio</a> for the real terminal</sub>
+  <sub>amine@louisville:~$ press <code>/</code> on the <a href="https://aminehamlouchi.com">portfolio</a> for the real terminal</sub>
 </p>
